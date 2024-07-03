@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-    <img width="400" height="400"  src="https://raw.githubusercontent.com/isechula/.github/main/profile/logo.png" />
+    <img src="https://raw.githubusercontent.com/isechula/.github/main/profile/logo.png" />
   <br>
 </p>
 
