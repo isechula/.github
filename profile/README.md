@@ -1,8 +1,7 @@
 <h1 align="center">Create, Collaborate, Chula</h1><br>
 
 <p align="center">
-  <br>
-    <img width="200" height="200"  src="https://raw.githubusercontent.com/isechula/.github/main/profile/logo.png" />
+    <img width="200" height="200" src="https://raw.githubusercontent.com/isechula/.github/main/profile/logo.png" />
   <br>
 </p>
 
@@ -12,6 +11,10 @@
 
 ----
 
-#### About us.
+#### ABOUT US
 
-<sub>We are students enrolled in Chulalongkorn University's international school of engineering programs, which include robotics and artificial intelligence engineering, information and communication engineering, aeronautics engineering, nanoengineering, and automotive design and manufacture. But, to be honest, the majority of contributors here come from the first two programs.</sub>
+<sub>We are students enrolled in Chulalongkorn University's International School of Engineering programs, which include 
+${\color{magenta}Robotics\ and\ Artificial\ Intelligence\ Engineering}$, 
+${\color{lightblue}Information\ and\ Communication\ Engineering}$, 
+${\color{red}Aerospace\ engineering}$, ${\color{lightgreen}Nanoengineering}$, and 
+${\color{yellow}Automotive\ Design\ and\ Manufacturing\ Engineering}$. Although, to be honest, the majority of contributors here come from the first two programs.</sub>
